@@ -37,6 +37,10 @@ a {
     font-weight: bold;
 }
 
+item-nav {
+    color: white;
+}
+
 img {
     max-width: 100%;
     height: auto;
